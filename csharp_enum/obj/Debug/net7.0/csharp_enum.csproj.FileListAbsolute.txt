@@ -1,0 +1,14 @@
+C:\Users\Developer\Desktop\Pratikler\csharp_enum\bin\Debug\net7.0\csharp_enum.exe
+C:\Users\Developer\Desktop\Pratikler\csharp_enum\bin\Debug\net7.0\csharp_enum.deps.json
+C:\Users\Developer\Desktop\Pratikler\csharp_enum\bin\Debug\net7.0\csharp_enum.runtimeconfig.json
+C:\Users\Developer\Desktop\Pratikler\csharp_enum\bin\Debug\net7.0\csharp_enum.dll
+C:\Users\Developer\Desktop\Pratikler\csharp_enum\bin\Debug\net7.0\csharp_enum.pdb
+C:\Users\Developer\Desktop\Pratikler\csharp_enum\obj\Debug\net7.0\csharp_enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\Desktop\Pratikler\csharp_enum\obj\Debug\net7.0\csharp_enum.AssemblyInfoInputs.cache
+C:\Users\Developer\Desktop\Pratikler\csharp_enum\obj\Debug\net7.0\csharp_enum.AssemblyInfo.cs
+C:\Users\Developer\Desktop\Pratikler\csharp_enum\obj\Debug\net7.0\csharp_enum.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\Pratikler\csharp_enum\obj\Debug\net7.0\csharp_enum.dll
+C:\Users\Developer\Desktop\Pratikler\csharp_enum\obj\Debug\net7.0\refint\csharp_enum.dll
+C:\Users\Developer\Desktop\Pratikler\csharp_enum\obj\Debug\net7.0\csharp_enum.pdb
+C:\Users\Developer\Desktop\Pratikler\csharp_enum\obj\Debug\net7.0\csharp_enum.genruntimeconfig.cache
+C:\Users\Developer\Desktop\Pratikler\csharp_enum\obj\Debug\net7.0\ref\csharp_enum.dll
